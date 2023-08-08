@@ -1,5 +1,6 @@
 File Format: CSV
-Max Size =: 200MB
+
+Max Size : 200MB
 
 Data Format: Single Column - Max 13 char
 
